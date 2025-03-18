@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZ0N2lvMzM2dWxqOXF4am1tbmlrMm9hcmVlOHJueHllN2lvaDNqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="200"/>
   <div>
-    <img src="https://komarev.com/ghpvc/?username=srudraDev&style=flat-square&color=blue" alt=""/>
+   <!-- <img src="https://komarev.com/ghpvc/?username=srudraDev&style=flat-square&color=blue" alt=""/> -->
   </div>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -32,16 +32,20 @@
 </div>
 
 ### :man_technologist: About Me:
-I'm a Computer Science major at Georgia Tech with concentrations in Information Internetworks and Media.
-I'm deeply interested in data, whether it be visualizations, extractions, or modeling.
-I most often build with Java, Python, and JS/TS, but I also love learning new languages/stacks 🤗.
+I'm a first-generation Computer Science major at Georgia Tech with concentrations in Information Internetworks and Media.
+I have a deep passion for data, whether it's visualization, extraction, or modeling.
+I most often build with ```Java```, ```Python```, and ```Javascript```/```Typescript```, but I also love learning new languages/stacks 🤗.
+- 🔭 I’m currently working on Wildlife911, a React-Native app designed to streamline and accelerate the rescue of injured wildlife.
+
+- :zap: Fun Fact: I haven't broken any bones yet. (_Knock on wood!_) ☘️
 - :mailbox: How to reach me:
-<a href="https://linkedin.com/in/suhartaR"><img src="https://github.com/user-attachments/assets/1450344a-b541-4cd4-ba56-68009d10ce80" alt="LinkedIn" width="25" height="25"></a>
-[![Gmail](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suharta098@gmail.com)
+  <a href="https://linkedin.com/in/suhartaR"><img src="https://github.com/user-attachments/assets/1450344a-b541-4cd4-ba56-68009d10ce80" alt="LinkedIn" width="28" height="28"></a>
+  [![Gmail](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suharta098@gmail.com)
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=srudraDev)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srudraDev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Git Stats](https://github-readme-stats.vercel.app/api?username=srudraDev)] -->
 
 <!--
 **srudraDev/srudraDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
